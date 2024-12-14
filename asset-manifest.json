@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/K-Consulting/static/css/main.08af47a1.css",
-    "main.js": "/K-Consulting/static/js/main.10393e0d.js",
+    "main.js": "/K-Consulting/static/js/main.b6132d43.js",
     "static/media/workers.jpg": "/K-Consulting/static/media/workers.25209ae3dcdd2743d5e2.jpg",
     "static/media/gallery4.jpg": "/K-Consulting/static/media/gallery4.0b2b2136509bf6070755.jpg",
     "static/media/advice.jpg": "/K-Consulting/static/media/advice.8aa5ddd2536852528220.jpg",
@@ -36,10 +36,10 @@
     "static/media/kamounilogo.png": "/K-Consulting/static/media/kamounilogo.13da5565103403bc8b34.png",
     "index.html": "/K-Consulting/index.html",
     "main.08af47a1.css.map": "/K-Consulting/static/css/main.08af47a1.css.map",
-    "main.10393e0d.js.map": "/K-Consulting/static/js/main.10393e0d.js.map"
+    "main.b6132d43.js.map": "/K-Consulting/static/js/main.b6132d43.js.map"
   },
   "entrypoints": [
     "static/css/main.08af47a1.css",
-    "static/js/main.10393e0d.js"
+    "static/js/main.b6132d43.js"
   ]
 }

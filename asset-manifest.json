@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kamouniyoussef/K-Consulting/static/css/main.b5066587.css",
+    "main.js": "/kamouniyoussef/K-Consulting/static/js/main.5fc5ae9f.js",
+    "static/media/pexels-alex-staudinger-1732414.jpg": "/kamouniyoussef/K-Consulting/static/media/pexels-alex-staudinger-1732414.b653d3234bbb06c26a1f.jpg",
+    "static/media/pexels-pixabay-271816.jpg": "/kamouniyoussef/K-Consulting/static/media/pexels-pixabay-271816.2d2e1749c12ea2cd56f5.jpg",
+    "static/media/imj1.jpg": "/kamouniyoussef/K-Consulting/static/media/imj1.c7a37948679e8af8acc0.jpg",
+    "index.html": "/kamouniyoussef/K-Consulting/index.html",
+    "main.b5066587.css.map": "/kamouniyoussef/K-Consulting/static/css/main.b5066587.css.map",
+    "main.5fc5ae9f.js.map": "/kamouniyoussef/K-Consulting/static/js/main.5fc5ae9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5066587.css",
+    "static/js/main.5fc5ae9f.js"
+  ]
+}
